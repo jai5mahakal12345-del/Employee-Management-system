@@ -1,0 +1,6 @@
+{
+  "name": "QuizPulse - Interactive Trivia & Knowledge Arena",
+  "description": "Engage in fast-paced interactive quizzes across tech, science, history, and pop culture with live score tracking, lifelines, and real-time streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
